@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Mayur — Embedded Systems and Firmware Engineering" width="100%">
+<img src="assets/header_mayur_kharvi.svg" alt="Mayur — Embedded Systems and Firmware Engineering" width="100%">
 
 <br>
 
