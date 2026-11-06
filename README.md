@@ -5,7 +5,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-may13--o-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/may13-o)
-![Focus](https://img.shields.io/badge/FOCUS-EMBEDDED%20%2F%20DIGITAL%20DESIGN-16243a?style=flat-square&labelColor=101820)
+![Focus](https://img.shields.io/badge/FOCUS-EMBEDDED%20%2F%20COMMUNICATION%20SYSTEMS-16243a?style=flat-square&labelColor=101820)
 ![Status](https://img.shields.io/badge/STATUS-LEARNING%20BY%20BUILDING-16243a?style=flat-square&labelColor=101820)
 
 </div>
