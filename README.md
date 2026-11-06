@@ -30,7 +30,6 @@ while (curious) {
 | Area | Exploring |
 |---|---|
 | Embedded systems | C, microcontrollers, ESP32, peripheral interfaces |
-| Digital design | Logic design, Verilog fundamentals, digital systems |
 | Communication | Signals, modulation, DSP and SDR |
 | Tools | MATLAB / Simulink, GNU Radio, Git, VS Code |
 
@@ -49,7 +48,6 @@ while (curious) {
 
 A few things I'm building and learning through:
 
-- **Bitwise Toolkit** — small C utilities for bit-level operations.
 - **Embedded and IoT experiments** — working with development boards, sensors and serial interfaces.
 - **Signal-processing exercises** — exploring filtering and communication concepts with MATLAB and Python.
 
@@ -58,7 +56,6 @@ A few things I'm building and learning through:
 ## `currently_learning`
 
 - Writing cleaner embedded C and understanding MCU peripherals.
-- Digital logic and RTL design foundations.
 - Applying signal-processing concepts to practical communication systems.
 
 <div align="center">
