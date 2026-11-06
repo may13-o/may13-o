@@ -43,8 +43,7 @@ while (curious) {
   <img src="https://img.shields.io/badge/MATLAB-1b3555?style=flat-square&logo=mathworks&logoColor=8fc7ff" alt="MATLAB">
   <img src="https://img.shields.io/badge/GNU_Radio-1b3555?style=flat-square&logoColor=8fc7ff" alt="GNU Radio">
   <img src="https://img.shields.io/badge/Git-1b3555?style=flat-square&logo=git&logoColor=8fc7ff" alt="Git">
-  <img src="https://img.shields.io/badge/Verilog-learning-1b3555?style=flat-square&logoColor=8fc7ff" alt="Verilog learning">
-</p>
+  </p>
 
 ## `selected_work`
 
