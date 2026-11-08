@@ -60,6 +60,5 @@ A few things I'm building and learning through:
   <img src="assets/terminal.svg" alt="Terminal illustration" width="100%">
   <br><br>
   <sub><code>0x00 → understand · 0x01 → implement · 0x02 → verify</code></sub>
-  <br>
-  <img src="assets/footer.svg" alt="End of file" width="100%">
+  <br><br>
 </div>
