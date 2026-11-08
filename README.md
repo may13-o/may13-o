@@ -51,8 +51,6 @@ A few things I'm building and learning through:
 - **Embedded and IoT experiments** — working with development boards, sensors and serial interfaces.
 - **Signal-processing exercises** — exploring filtering and communication concepts with MATLAB and Python.
 
-> Replace or expand these entries as each repository reaches a presentable milestone. Keep this section focused on work you can explain and demonstrate.
-
 ## `currently_learning`
 
 - Writing cleaner embedded C and understanding MCU peripherals.
